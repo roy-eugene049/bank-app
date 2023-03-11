@@ -6,7 +6,7 @@ const App = () => (
     <div className="bg-primary w-full overflow-hidden">
         <div className= {`${styles.paddingX} ${styles.flexcenter}`}>
             <div className= {`${styles.boxWidth}`}>
-                <NavBar/ >
+                <Navbar />
             </div>
         </div>
 
