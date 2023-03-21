@@ -1,5 +1,5 @@
-import styles from '../style';
-import { discount, robot} from '../assets';
+import styles from "../style";
+import { discount, robot } from "../assets";
 import GetStarted from "./GetStarted";
 
 const Hero = () => {
@@ -51,4 +51,4 @@ const Hero = () => {
   );
 };
 
-export default Hero
+export default Hero;
